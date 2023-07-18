@@ -130,7 +130,8 @@ export const BlogSEO = ({
       name: siteMetadata.author,
       logo: {
         '@type': 'ImageObject',
-        url: `${siteMetadata.siteUrl}${siteMetadata.siteLogo}`,
+        url: '/static/images/KP-logo5.png'
+        // url: `${siteMetadata.siteUrl}${siteMetadata.siteLogo}`,
       },
     },
     description: summary,
