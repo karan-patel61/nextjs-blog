@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Karan Patel\'s Next.js Blog',
   author: 'Karan Patel',
   headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Hello World! Welcome to Karan Patel\'s blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'http://localhost:3000/',

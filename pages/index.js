@@ -7,7 +7,7 @@ import formatDate from '@/lib/utils/formatDate'
 
 import NewsletterForm from '@/components/NewsletterForm'
 
-const MAX_DISPLAY = 5
+const MAX_DISPLAY = 3
 
 export async function getStaticProps() {
   const posts = await getAllFilesFrontMatter('blog')
@@ -26,6 +26,8 @@ export default function Home({ posts }) {
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             {siteMetadata.description}
+            <br/>
+            Extra Text goes here!
           </p>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
