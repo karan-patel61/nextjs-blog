@@ -1,8 +1,8 @@
 ---
 name: Karan Patel
-avatar: /static/images/avatar.png
+avatar: /static/images/profile-avatar.jpg
 occupation: Software Engineer
-company: Stanford University
+company: Rogers Communications Inc.
 email: ptlkaran97@gmail.com
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com/in/karan-patel-902a37112
