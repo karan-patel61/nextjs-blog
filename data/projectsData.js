@@ -1,11 +1,10 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Karan Patel CV',
+    description: `The first portfolio CV made by Karan Patel. 
+    The project was built using HTML5, CSS3, Javascript and jQuery.`,
+    imgSrc: '/static/images/first_cv.png',
+    href: 'https://www.karanpatelcv.com',
   },
   {
     title: 'The Time Machine',
