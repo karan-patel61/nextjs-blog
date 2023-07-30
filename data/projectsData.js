@@ -10,7 +10,7 @@ const projectsData = [
     title: 'Open Chat',
     description: `A public chat room web application built and deployed using Google Firebase.`,
     imgSrc: '/static/images/firebase.jpg',
-    href: '/blog/the-time-machine',
+    href: '/blog/open-chat',
   },
   {
     title: 'File Upload',
