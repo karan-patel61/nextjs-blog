@@ -17,16 +17,8 @@ const projectsData = [
     description: `A full-stack MERN application serving as an Employee Database.
     In addition, a file upload feature was implemented to allow uploading images.`,
     imgSrc: '/static/images/mongodb-logo.png',
-    href: '/blog/the-time-machine',
-  },
-  {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
-  },
+    href: '/blog/file-upload',
+  }
 ]
 
 export default projectsData
