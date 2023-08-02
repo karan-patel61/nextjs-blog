@@ -3,7 +3,7 @@ const projectsData = [
     title: 'Karan Patel CV',
     description: `The first portfolio CV made by Karan Patel. 
     The project was built using HTML5, CSS3, Javascript and jQuery.`,
-    imgSrc: '/static/images/first_cv.png',
+    imgSrc: '/static/images/html.jpg',
     href: 'https://www.karanpatelcv.com',
   },
   {

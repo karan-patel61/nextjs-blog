@@ -69,7 +69,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                         <dt className="sr-only">Name</dt>
                         <dd className="text-gray-900 dark:text-gray-100">{author.name}</dd>
                         <dt className="sr-only">Twitter</dt>
-                        <dd>
+                        {/* <dd>
                           {author.twitter && (
                             <Link
                               href={author.twitter}
@@ -78,7 +78,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                               {author.twitter.replace('https://twitter.com/', '@')}
                             </Link>
                           )}
-                        </dd>
+                        </dd> */}
                       </dl>
                     </li>
                   ))}
