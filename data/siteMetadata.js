@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'http://localhost:3000/',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteRepo: 'https://github.com/karan-patel61/nextjs-blog',
   siteLogo: '/static/images/KP-logo5.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
