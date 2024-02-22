@@ -1,5 +1,13 @@
 const projectsData = [
   {
+    title: 'Bdrive App',
+    description: `A full-stack google drive clone application built using Nextjs, Tailwind, and Supabase.
+    Users can upload files onto the real-time database.
+    File Upload, Delete, and Download features have been implemented.`,
+    imgSrc: '/static/images/bdrive-app.png',
+    href: 'https://bdrive-app.vercel.app',
+  },
+  {
     title: 'Karan Patel CV',
     description: `The first portfolio CV made by Karan Patel. 
     The project was built using HTML5, CSS3, Javascript and jQuery.`,
